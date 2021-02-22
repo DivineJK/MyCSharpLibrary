@@ -12,6 +12,6 @@ public class Program{
         Console.WriteLine();
     }
     public static void Main(){
-        
+        Console.WriteLine(0);
     }
 }
